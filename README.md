@@ -502,6 +502,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 ![在这里插入图片描述](https://img-blog.csdn.net/20181006172824881?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTQ2MzA2MzY=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
 ## 参考资料
 [IljaKosynkin/FFmpeg-Development-Kit](https://github.com/IljaKosynkin/FFmpeg-Development-Kit)
+
 [ffmpeg使用NDK编译时遇到的一些坑 - luo0xue的博客 - CSDN博客](https://blog.csdn.net/luo0xue/article/details/80048847#commentBox)
+
 [ffmpeg ./configure参数说明 - azraelly - 博客园](https://www.cnblogs.com/azraelly/archive/2012/12/31/2840541.html)
+
 [Android开发学习之路--Android Studio cmake编译ffmpeg - 东月之神 - CSDN博客](https://blog.csdn.net/eastmoon502136/article/details/52806640)
