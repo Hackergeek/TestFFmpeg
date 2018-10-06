@@ -120,7 +120,7 @@ build () {
 
 ![20181006165801357.png](https://upload-images.jianshu.io/upload_images/1532904-ead064a591014e65.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ## 二、创建NDK项目并引入FFmpeg动态库
-
+创建一个NDK项目，然后将生成的ffmpeg动态库文件和头文件拷贝到libs文件夹，最终项目结构如下图。
 ![20181006111010365.png](https://upload-images.jianshu.io/upload_images/1532904-8fb661962ffe2536.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ## 三、配置build.gradle
 需要配置的内容如下：
