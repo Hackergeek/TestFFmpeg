@@ -1,6 +1,6 @@
 # Android cmake编译FFmpeg
-[**项目地址**](https://github.com/Hackergeek/TestFFmpeg)
 
+[**项目地址**](https://github.com/Hackergeek/TestFFmpeg)
 通过阅读本文，你将学到以下内容：
 1. 如何编译多种CPU指令集的FFmpeg动态库
 2. 如何配置CMakeLists.txt和build.gradle构建Android项目
@@ -117,10 +117,11 @@ build () {
 7. --enable-cross-compile：开启交叉编译（跨平台编译）
 
 执行此脚本，最终生成文件如下：
-![在这里插入图片描述](https://img-blog.csdn.net/20181006165801357?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTQ2MzA2MzY=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+
+![20181006165801357.png](https://upload-images.jianshu.io/upload_images/1532904-ead064a591014e65.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ## 二、创建NDK项目并引入FFmpeg动态库
 
-![在这里插入图片描述](https://img-blog.csdn.net/20181006111010365?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTQ2MzA2MzY=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+![20181006111010365.png](https://upload-images.jianshu.io/upload_images/1532904-8fb661962ffe2536.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ## 三、配置build.gradle
 需要配置的内容如下：
 1. 配置so库的路径
@@ -499,7 +500,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 }
 ```
 ### 运行结果如下图：
-![在这里插入图片描述](https://img-blog.csdn.net/20181006172824881?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTQ2MzA2MzY=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+![Jietu20181006-172358-HD.gif](https://upload-images.jianshu.io/upload_images/1532904-e4c84ccb2edef526.gif?imageMogr2/auto-orient/strip)
 ## 参考资料
 [IljaKosynkin/FFmpeg-Development-Kit](https://github.com/IljaKosynkin/FFmpeg-Development-Kit)
 
