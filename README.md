@@ -9,5 +9,5 @@
 ![运行结果](https://upload-images.jianshu.io/upload_images/1532904-e4c84ccb2edef526.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/322/format/webp)
 # 项目内容
 - [Android cmake编译FFmpeg](https://blog.csdn.net/u014630636/article/details/82949729)
-- [FFmpeg编译脚本](https://github.com/Hackergeek/TestFFmpeg/tree/master/buildScript)
+- [FFmpeg编译脚本](https://github.com/Hackergeek/TestFFmpeg/tree/master/buildScript/build.sh)
 
